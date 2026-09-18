@@ -1,7 +1,7 @@
 # 📊 Daily Machine Learning Practice
 
 Welcome to my **Daily Machine Learning Repository** 🚀
-This repository is a collection of my consistent efforts to practice, implement, and improve my understanding of Machine Learning concepts
+This repository is a collection of my consistent efforts to practice, implement, and improve my understanding of Machine Learning concepts.
 
 ---
 
